@@ -1,0 +1,3 @@
+[oanda]
+account_id = 101-009-10587684-001
+api_key = f0945a78ceb82d365a6af48b1991bf40-cc28ec42afdf55159a9d50952ea221f4
